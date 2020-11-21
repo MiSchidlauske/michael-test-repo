@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>basketball on Sport-Club Glashütten</title>
+    <link>http://www.scglashuetten.de/tags/basketball/</link>
+    <description>Recent content in basketball on Sport-Club Glashütten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 09 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.scglashuetten.de/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basketball</title>
+      <link>http://www.scglashuetten.de/sportarten/39-basketball/</link>
+      <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.scglashuetten.de/sportarten/39-basketball/</guid>
+      <description>Recht neu im Angebot des Sport-Clubs ist Basketball. Mittwochs abends von 19:00 Uhr bis 20:30 Uhr trifft sich eine Gruppe in der Sporthalle Glashütten, um dort gemeinsam Basketball zu spielen. Neulinge sind jederzeit herzlich willkommen.</description>
+    </item>
+    
+  </channel>
+</rss>

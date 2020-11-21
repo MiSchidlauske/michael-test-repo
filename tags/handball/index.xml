@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>handball on Sport-Club Glashütten</title>
+    <link>http://www.scglashuetten.de/tags/handball/</link>
+    <description>Recent content in handball on Sport-Club Glashütten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 27 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.scglashuetten.de/tags/handball/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Handball</title>
+      <link>http://www.scglashuetten.de/sportarten/10-handball/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.scglashuetten.de/sportarten/10-handball/</guid>
+      <description>Der Sport-Club Glashütten spielt derzeit in einer Spielgemeinschaft mit dem TuS Steinbach und dem MTV Kronberg. In drei Herren-, einer Damenmannschaft und in allen Jugenden finden Sie ausreichend Mitspieler.
+Die Homepage der Spielgemeinschaft mit allen aktuellen Trainingszeiten, Mannschaften und Ergebnissen finden Sie unter http://www.sg-kronberg-steinbach.de/</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,157 @@
+/**
+ * Startseite
+ */
+
+body {
+  background-color: white;
+  /*font-size: 15px;*/
+}
+
+body.homepage {
+  background-image: url(/img/kleinsportfeld.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+body.homepage header {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body.homepage header .header-logo {
+  width: 600px;
+  max-width: 80%;
+  height: 540px;
+  text-align: center;
+  border: 2px solid #FFF;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 20px 15px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+header .header-logo {
+  font-size: 15px;
+  color: white;
+}
+
+body.homepage main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+body.homepage main a {
+  width: 33%;
+  min-width: 320px;
+  border: 2px solid white;
+  padding: 100px 0;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-size: 45px;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-color: #AAAAAA;
+  background-blend-mode: multiply;
+}
+
+body.homepage main a:hover {
+  background-color: rgba(1,80,57,0.8);
+}
+
+body.homepage main a span {
+  display: inline-block;
+  width: 60%;
+  padding: 10px 25px;
+  border-radius: 10px;
+  background-color: rgba(176,176,176,0.8);
+}
+
+/**
+ * Menü
+ */
+.menu-colors {
+ background-color: #01543c;
+}
+
+/**
+ * Artikel
+ */
+h1.article-title {
+  font-size: 30px;
+}
+
+/* Kategorien ausblenden */
+article header time + span.separator,
+article header .categories{
+  display: none;
+}
+
+/**
+ * Artikel-Übersicht
+ */
+h2.page-item-title {
+  font-size: 20px;
+}
+.page-item-btn {
+  background-color: #01543c;
+  position: absolute;
+  bottom: 35px;
+}
+.page-item-content footer {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+/* Kategorien ausblenden */
+.page-item-content footer ul.categories,
+.page-item-content footer ul.categories + span.separator {
+  display: none;
+}
+
+.page-item-content .page-item-date {
+  display: none;
+}
+
+.main-content .flex-item, .page-item-content {
+  min-height: 570px;
+  overflow: hidden;
+}
+
+.pagination li.active {
+  background-color: #01543c;
+}
+
+#main-title {
+  background-position-y: 160px;
+  background-position-x: -17px;
+  background-repeat: repeat-y;
+  background-image: url(/img/icon-impressum.jpg);
+  margin-left: 70px;
+  background-color: #d7dce2;
+  min-height: 60px;
+}
+
+#main-title h1 {
+  padding-left: 90px;
+  font-size: 30px;
+  line-height: 60px;
+  margin-bottom: 0;
+}
+
+article section h1 {
+  font-size: 20px;
+}
+article section h2 {
+  font-size: 16px;
+}
+
+.vorstand thead {
+  display: none;
+}

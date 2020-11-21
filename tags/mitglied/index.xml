@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mitglied on Sport-Club Glashütten</title>
+    <link>http://www.scglashuetten.de/tags/mitglied/</link>
+    <description>Recent content in mitglied on Sport-Club Glashütten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 26 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.scglashuetten.de/tags/mitglied/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mitglied werden</title>
+      <link>http://www.scglashuetten.de/verein/6-mitglied-werden/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.scglashuetten.de/verein/6-mitglied-werden/</guid>
+      <description>Schauen Sie zu unseren Trainings-Angeboten einfach herein und informieren Sie sich bei unseren Übungsleitern. Jeder kann - nach Absprache mit dem Übungsleiter - kostenlos am Training teilnehmen, um sich besser entscheiden zu können, ob diese Sportart etwas für ihn ist.
+Wichtig dabei: Während des Schnuppertrainings sind Sie nicht über den Sport-Club versichert, sondern privat haftbar. Entscheiden Sie sich dann dafür, an diesem Angebot aktiv teil zunehmen, sprechen Sie den Übungsleiter an und füllen einen Mitgliedsantrag aus.</description>
+    </item>
+    
+  </channel>
+</rss>

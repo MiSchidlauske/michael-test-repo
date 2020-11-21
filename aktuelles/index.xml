@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aktuelles on Sport-Club Glashütten</title>
+    <link>http://www.scglashuetten.de/aktuelles/</link>
+    <description>Recent content in Aktuelles on Sport-Club Glashütten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 19 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.scglashuetten.de/aktuelles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aktuelles</title>
+      <link>http://www.scglashuetten.de/aktuelles/1-aktuelles/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.scglashuetten.de/aktuelles/1-aktuelles/</guid>
+      <description>Aktuelles vom Sport-Club Sie finden auf unserer Facebook-Seite alle Neuigkeiten von uns.
+(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = &#34;//connect.facebook.net/de_DE/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=1644337452539315&#34;;fjs.parentNode.insertBefore(js, fjs);}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));SC Glashütten e.V.</description>
+    </item>
+    
+  </channel>
+</rss>

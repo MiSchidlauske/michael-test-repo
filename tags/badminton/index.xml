@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Badminton on Sport-Club Glashütten</title>
+    <link>http://www.scglashuetten.de/tags/badminton/</link>
+    <description>Recent content in Badminton on Sport-Club Glashütten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 27 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.scglashuetten.de/tags/badminton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Badminton</title>
+      <link>http://www.scglashuetten.de/sportarten/8-badminton/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.scglashuetten.de/sportarten/8-badminton/</guid>
+      <description>Spielen Sie gerne Federball?
+Die Badminton-Abteilung besteht seit 1995 und versteht sich als zwanglose Gruppe von Hobbysportlern, die den Sport als Freizeitvergnügen und zur Erhaltung der körperlichen Fitness betreibt.
+Badminton unter Wettbewerbsbedingungen oder als Leistungssport sind bei uns derzeit kein Thema. Das schauen wir uns lieber bei gelegentlichen Besuchen von Bundesligaspielen oder Ranglistenturnieren in unserer Region an. Doch das muss nicht immer so bleiben, denn bei entsprechendem Interesse aus den Reihen der Sportler hat der Sport Club Glashütten seine Bereitschaft bekundet, eine Mannschaft zum regulären Spielbetrieb in einer geeigneten Liga anzumelden.</description>
+    </item>
+    
+  </channel>
+</rss>
